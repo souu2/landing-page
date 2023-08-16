@@ -123,3 +123,37 @@ a:active {
     border-radius:15px;
 
 }
+
+.quote-container {
+    background-color:#E5E7EB;
+    padding-top:10px;
+    display:flex;
+    align-items:center;
+    padding:5%;
+    flex-direction:column;
+}
+
+
+.quote {
+    font-size:36px;
+    font-style:italic;
+}
+.author {
+    font-style:normal;
+    margin-left:60%
+}
+.sign-up-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.sign-text{
+
+}
+
+.buttons{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
